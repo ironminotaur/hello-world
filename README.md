@@ -1,7 +1,7 @@
-# hello-world
+# intro
 
-Hi friend.  I am ironminotaur. 
+Hi friend.  I am iron minotaur. 
 
-It is pitch black, but I will help you deal with grues.
+It is pitch black in the great underground, and the red queen rules.
 
-See you around.
+I am here to help.
