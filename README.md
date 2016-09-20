@@ -1,8 +1,7 @@
 # hello-world
-Just another repository
 
-Hello there.  I am ironminotaur.
+Hi friend.  I am ironminotaur.
 
-It is pitch black, but I will protect you from grues.
+It is pitch black, but I will help you deal with grues.
 
 See you around.
