@@ -1,7 +1,5 @@
 # intro
 
-Hi friend.  I am iron minotaur. 
+こんにちは友人。私は鉄ミノタウロスです。
 
-It is pitch black in the great underground, and the red queen rules.
-
-I am here to help.
+妖怪はどこにでもあります。私は助けるためにここにいます。
